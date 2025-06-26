@@ -1,4 +1,0 @@
-import from first as f:
-
-if __name__ = '__main__':
-  print(foo(100, 200))
